@@ -1,0 +1,4 @@
+erreur à fixer : 
+TypeError: _RNGestureHandlerModule.default.flushOperations is not a function (it is undefined), js engine: hermes
+SearchBar : setClicked is not a function (it is undefined)
+Header.js : Uncaught TypeError: navigation.goBack is not a function.
